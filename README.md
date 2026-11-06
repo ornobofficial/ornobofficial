@@ -1,67 +1,119 @@
-<h1 align="center">Hi, I'm Md Asiful Alam Ornob 👋</h1>
-
 <p align="center">
-  Software Engineering undergraduate at <b>Sichuan University</b> · Chengdu, China · Class of 2027<br>
-  Automation · AI systems · Embedded devices · Big data
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:0d1117&height=180&text=ASIFUL%20ALAM%20ORNOB&fontColor=e6edf3&fontSize=40&fontAlignY=45&desc=Automation%20%C2%B7%20AI%20Systems%20%C2%B7%20Embedded%20%C2%B7%20Big%20Data&descSize=16&descAlignY=68" width="100%" />
 </p>
 
+<h3 align="center">Software Engineering @ Sichuan University · Class of 2027</h3>
+
 <p align="center">
-  <a href="mailto:2023521460111@stu.scu.edu.cn">University Email</a> ·
-  <a href="mailto:asifulalam117@gmail.com">Gmail</a> ·
-  <a href="https://www.eshastinttale.com">Website</a> ·
-  <a href="https://www.linkedin.com/in/asiful-alam-ornob-688b2019a/">LinkedIn</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+automation+that+removes+manual+work;Designing+ESP32+devices+with+voice+and+sensing;Turning+data+into+decisions" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I'm a Software Engineering student who builds practical systems that connect software, data, and hardware. Since November 2025 I have worked as a freelance automation developer, designing workflows that remove repetitive manual work. I'm now focusing on AI and intelligent systems, and I plan to continue with a Master's degree in Computer Science.
+<h2 align="center">🚀 WHO I AM</h2>
 
-## 🎯 Focus Areas
-- **Workflow Automation:** designing end-to-end n8n pipelines, API integrations, and scheduled or event-driven processes
-- **AI & Intelligent Systems:** LLM-powered tools, voice assistants, and agent-style workflows
-- **Embedded Systems:** ESP32-based devices with sensing, display, and voice interaction
-- **Big Data:** data processing and analysis on real-world datasets
+<img align="right" src="https://skillicons.dev/icons?i=py,cpp,arduino&perline=1" height="140" alt="" />
 
-## 📌 Featured Projects
+Software Engineering undergraduate at **Sichuan University**, Chengdu. I build practical systems that connect **software, data, and hardware**.
 
-### 🤖 [Airi]: Desk Robot 
-An ESP32-based desk robot that monitors air quality and acts as a companion for its user.
-- **Hardware:** ESP32-S3, air-quality sensors, display
-- **Features:** real-time air-quality readings, voice interaction, companion behavior
-- **Status:** in development
+Since **November 2025** I work as a freelance automation developer, designing end-to-end workflows and integrations. I'm now moving deeper into AI and intelligent systems.
 
-### 📊 [Yelp Big Data Analysis]: Team Project
-Large-scale analysis of the Yelp dataset.
-- **My contribution:** DESCRIBE YOUR PART (e.g., data cleaning, analysis, visualization)
-- **Tools:** LIST TOOLS (e.g., Python, Spark, Hadoop)
+<br clear="right"/>
 
-### ⚙️ [Auto-Posting Automation]: n8n Workflow
-An automated content-posting pipeline built with n8n.
-- **What it does:** DESCRIBE THE FLOW (e.g., content source → processing → scheduled publishing)
-- **Integrations:** LIST PLATFORMS/APIs
+<h2 align="center">⚙️ WHAT I DO</h2>
 
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+| | |
+|---|---|
+| **Workflow Automation** | End-to-end n8n pipelines, API integrations, event-driven processes |
+| **AI & Intelligent Systems** | LLM-powered tools, voice assistants, agent-style workflows |
+| **Embedded Systems** | ESP32 devices with sensing, display, and voice interaction |
+| **Big Data** | Processing and analysis of large real-world datasets |
 
-## 🎓 Education
-**Sichuan University**, Chengdu, China
-B.Eng. in Software Engineering · Expected 2027
+<h2 align="center">🎯 VISION</h2>
 
-## 💼 Experience
-- **Freelance Automation Developer** (Nov 2025 – Present): building workflow automation and integration solutions for clients
-- **CEO & Distributor, Esha's Tinttale:** running a business and its [website](https://www.eshastinttale.com)
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ornobofficial&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornobofficial&layout=compact&hide_border=true" height="150" />
+Build intelligent systems that solve real problems, and deepen that work through a Master's degree in Computer Science.
 </p>
 
-## 📫 Let's Connect
-Open to research collaborations, internships, and interesting automation or AI projects. Feel free to reach out by email.
+---
+
+<h2 align="center">📌 FEATURED PROJECTS</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 <a href="REPO_LINK">Airi</a></h3>
+      ESP32 desk robot for air-quality monitoring and companionship. <i>Thesis project.</i><br><br>
+      <b>Stack:</b> ESP32-S3 · C++ · sensors · voice
+    </td>
+    <td width="33%" valign="top">
+      <h3>📊 <a href="REPO_LINK">Yelp Big Data</a></h3>
+      Large-scale analysis of the Yelp dataset. <i>Team project.</i><br><br>
+      <b>My part:</b> DESCRIBE YOUR CONTRIBUTION<br>
+      <b>Stack:</b> LIST TOOLS
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ <a href="REPO_LINK">Auto-Posting</a></h3>
+      Automated content-posting pipeline.<br><br>
+      <b>Flow:</b> DESCRIBE FLOW<br>
+      <b>Stack:</b> n8n · LIST APIs
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🌐 CONNECT</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <th>LinkedIn</th><th>Email (Uni)</th><th>Gmail</th><th>Website</th>
+  </tr>
+  <tr>
+    <td align="center"><br><a href="https://www.linkedin.com/in/asiful-alam-ornob-688b2019a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a><br><br></td>
+    <td align="center"><br><a href="mailto:2023521460111@stu.scu.edu.cn"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a><br><br></td>
+    <td align="center"><br><a href="mailto:asifulalam117@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a><br><br></td>
+    <td align="center"><br><a href="https://www.eshastinttale.com"><img src="https://skillicons.dev/icons?i=chrome" height="40" /></a><br><br></td>
+  </tr>
+</table>
+</div>
+
+---
+
+<h2 align="center">🧊 CONTRIBUTIONS</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
+</p>
+
+<h2 align="center">🧰 SKILL SET</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=py" width="40"/><br>Python</td>
+    <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=js" width="40"/><br>JS</td>
+    <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</td>
+    <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br>Arduino</td>
+    <td align="center" width="12%"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40"/><br>n8n</td>
+    <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
+    <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
+    <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+</p>
