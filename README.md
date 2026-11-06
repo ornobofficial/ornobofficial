@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:0d1117&height=180&text=ASIFUL%20ALAM%20ORNOB&fontColor=e6edf3&fontSize=40&fontAlignY=45&desc=Automation%20%C2%B7%20AI%20Systems%20%C2%B7%20Embedded%20%C2%B7%20Big%20Data&descSize=16&descAlignY=68" width="100%" />
+  <img src="./banner.svg" width="100%" alt="Asiful Alam Ornob" />
 </p>
 
 <h3 align="center">Software Engineering @ Sichuan University · Class of 2027</h3>
