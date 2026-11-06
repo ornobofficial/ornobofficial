@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">🚀 WHO I AM</h2>
+<h2 align="center"> WHO I AM</h2>
 
 <img align="right" src="https://skillicons.dev/icons?i=py,cpp,arduino&perline=1" height="140" alt="" />
 
@@ -20,7 +20,7 @@ Since **November 2025** I work as a freelance automation developer, designing en
 
 <br clear="right"/>
 
-<h2 align="center">⚙️ WHAT I DO</h2>
+<h2 align="center"> WHAT I DO</h2>
 
 | | |
 |---|---|
@@ -29,7 +29,7 @@ Since **November 2025** I work as a freelance automation developer, designing en
 | **Embedded Systems** | ESP32 devices with sensing, display, and voice interaction |
 | **Big Data** | Processing and analysis of large real-world datasets |
 
-<h2 align="center">🎯 VISION</h2>
+<h2 align="center"> VISION</h2>
 
 <p align="center">
 Build intelligent systems that solve real problems, and deepen that work through a Master's degree in Computer Science.
@@ -37,23 +37,23 @@ Build intelligent systems that solve real problems, and deepen that work through
 
 ---
 
-<h2 align="center">📌 FEATURED PROJECTS</h2>
+<h2 align="center"> FEATURED PROJECTS</h2>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 <a href="REPO_LINK">Airi</a></h3>
+      <h3> <a href="REPO_LINK">Airi</a></h3>
       ESP32 desk robot for air-quality monitoring and companionship. <i>Thesis project.</i><br><br>
       <b>Stack:</b> ESP32-S3 · C++ · sensors · voice
     </td>
     <td width="33%" valign="top">
-      <h3>📊 <a href="REPO_LINK">Yelp Big Data</a></h3>
+      <h3> <a href="REPO_LINK">Yelp Big Data</a></h3>
       Large-scale analysis of the Yelp dataset. <i>Team project.</i><br><br>
       <b>My part:</b> DESCRIBE YOUR CONTRIBUTION<br>
       <b>Stack:</b> LIST TOOLS
     </td>
     <td width="33%" valign="top">
-      <h3>⚙️ <a href="REPO_LINK">Auto-Posting</a></h3>
+      <h3> <a href="REPO_LINK">Auto-Posting</a></h3>
       Automated content-posting pipeline.<br><br>
       <b>Flow:</b> DESCRIBE FLOW<br>
       <b>Stack:</b> n8n · LIST APIs
@@ -100,6 +100,16 @@ Build intelligent systems that solve real problems, and deepen that work through
     <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
     <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
     <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
+     </tr>
+      <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="40"/><br>ESP32</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br>Arduino</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br>Embedded C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="40"/><br>Raspberry Pi</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="40"/><br>OpenCV</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ros" width="40"/><br>ROS</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mqtt/660066" width="40"/><br>MQTT</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=platformio" width="40"/><br>PlatformIO</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
