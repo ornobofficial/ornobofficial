@@ -49,13 +49,13 @@ Build intelligent systems that solve real problems, and deepen that work through
     <td width="33%" valign="top">
       <h3> <a href="REPO_LINK">Yelp Big Data</a></h3>
       Large-scale analysis of the Yelp dataset. <i>Team project.</i><br><br>
-      <b>My part:</b> DESCRIBE YOUR CONTRIBUTION<br>
+      <b>My part:</b> Worked in a team of four on a large dataset, extracting and analyzing the key insights to complete the project.<br>
       <b>Stack:</b> LIST TOOLS
     </td>
     <td width="33%" valign="top">
       <h3> <a href="REPO_LINK">Auto-Posting</a></h3>
       Automated content-posting pipeline.<br><br>
-      <b>Flow:</b> DESCRIBE FLOW<br>
+      <b>Flow:</b> Designed the workflow and optimized it for reliability.<br>
       <b>Stack:</b> n8n · LIST APIs
     </td>
   </tr>
